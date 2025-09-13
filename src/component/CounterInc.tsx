@@ -1,6 +1,6 @@
 // CounterInc.tsx 
 
-import { useState } from "react";
+// import { useState } from "react";
 import { useCounterStore } from "../../store/CounterStore"; 
 
  
